@@ -19,3 +19,10 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# blender
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
